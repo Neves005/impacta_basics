@@ -135,7 +135,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 2. Criar uma branch para sua feature
 3. Fazer commit das mudanças
 4. Abrir um Pull Request
-
-## 📞 Suporte
-
-Se encontrar algum problema ou tiver dúvidas, abra uma issue no repositório.
